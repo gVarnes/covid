@@ -1,0 +1,20 @@
+.header{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	gap: 10px;
+}
+.logo{
+		display: flex;
+		align-items: center;
+		img{
+			width: 200px;
+			aspect-ratio: 1;
+		}
+	}
+.statistic{
+		font-weight: 700;
+		font-size: 4.5rem;
+		line-height: 5.25rem;
+	}
+	
